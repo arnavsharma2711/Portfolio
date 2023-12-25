@@ -590,6 +590,10 @@ About Section
     font-size: 20px;
     margin: 20px 0;
 }
+.about-text h4{
+    text-transform: capitalize;
+    margin: 10px 0;
+}
 .about-text .skills{
     display: flex;
     flex-wrap: wrap;
