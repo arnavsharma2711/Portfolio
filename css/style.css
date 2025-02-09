@@ -722,6 +722,10 @@ About Section
   display: inline-block;
   font-weight: 400;
 }
+.company-logo {
+  width: 20px;
+  height: 20px;
+}
 .about-text .btn {
   margin: 0 15px 15px 0;
 }
